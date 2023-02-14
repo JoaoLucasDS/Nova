@@ -13,7 +13,7 @@ class Draw extends StatelessWidget {
             ),
           ),
           ListTile(
-            title: Text('Item 1'),
+            title: const Text('Item 1'),
             onTap: () {
               // Do something
             },
